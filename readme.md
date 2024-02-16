@@ -1,5 +1,5 @@
 ### Project
-[![QwertyPiano](https://32dev.github.io/resources/badge/qwertypianoe.png)](https://32dev.github.io/qwerty-piano)
+[![QwertyPiano](https://32dev.github.io/resources/badge/qwertypiano.png)](https://32dev.github.io/qwerty-piano)
 
 <hr>
 
