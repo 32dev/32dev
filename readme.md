@@ -1,5 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gaegu&display=swap" rel="stylesheet">
 
 ### <span style="font-family: 'Gaegu';"> Project </span>
 [![QwertyPiano](https://32dev.github.io/resources/badge/qwertypiano.png)](https://32dev.github.io/qwerty-piano)
